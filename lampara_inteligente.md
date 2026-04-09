@@ -1,0 +1,1 @@
+Lampara inteligente interactiva
