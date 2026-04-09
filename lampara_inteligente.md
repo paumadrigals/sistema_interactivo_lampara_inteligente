@@ -18,3 +18,12 @@ Tipo de señal: analógica
 
 Función: detectar la iluminación del entorno en el que se encuentre
 
+
+
+\------------------------------------- SALIDAS  -------------------------------------
+
+Actuador: Lámpara o LED
+
+Tipo de señal: Digital (encendido/apagado)
+
+Función: Activar o desactivar la iluminación según la señal recibida del sensor.
